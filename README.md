@@ -1,6 +1,6 @@
-# p2
+# Simple Calculator
 
-A new Flutter project.
+Calculate addition to division using my simple calculator
 
 ## Getting Started
 
